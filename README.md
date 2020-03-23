@@ -1,7 +1,9 @@
 # Arcade Car Movement #
 
-Generic Input Capture System with the ability to reply those inputs back.
+Simple Aracde Car Movement In Unity
 
-Example: See the onscreen logs for the key and the event type
+You can see for the example, that the trick is to move a sphere and align the cars position with it. We also rotate the car model to align with the surface.
+
+### Example ###
 
 ![](ExampleImages/ExampleImage.gif)
