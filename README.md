@@ -1,6 +1,6 @@
 # Arcade Car Movement #
 
-Simple Aracde Car Movement In Unity
+Simple Arcade Car Movement In Unity
 
 You can see for the example, that the trick is to move a sphere and align the cars position with it. We also rotate the car model to align with the surface.
 
